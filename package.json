@@ -10,8 +10,7 @@
     "export": "next export"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/volleio/solar-calculator.git"
+    "type": "git"
   },
   "keywords": [],
   "author": "",
